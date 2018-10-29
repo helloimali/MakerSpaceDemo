@@ -1,0 +1,19 @@
+body{
+	background-color:red;
+}
+/* COMMENT */
+
+/* CALL CLASS*/
+.yummy{
+	background-color: blue;
+}
+
+/* CALL CLASS*/
+
+#bear{
+	color: #f34134;
+}
+
+#sha{
+	text-shadow: 2px 2px black;
+}
